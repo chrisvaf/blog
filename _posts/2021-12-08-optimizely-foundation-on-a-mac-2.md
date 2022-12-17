@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Optimizely Foundation on a Mac"
-tags: [code]
+tag-name: [code .net]
 ---
 
 ### Introduction
