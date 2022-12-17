@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
     {% include meta.html %}
 
     <!--[if lt IE 9]>
