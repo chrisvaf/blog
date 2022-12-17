@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Optimizely Foundation on a Mac"
+tags: [code]
 ---
 
 ### Introduction
