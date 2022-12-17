@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Optimizely Foundation on a Mac"
+---
+
 ### Introduction
 
 With all of the exciting stuff going on at Optimizely, perhaps the biggest thing for developers is our move to .NET 5, which provides a ton of benefits, performance being one of them.  The other thing that has developers excited is being able to code in any operating system.  I’m on a Mac and have successfully gotten Foundation up and running locally.  I’m excited to share the steps I took to hopefully accelerate the time it takes for you to start working with Optimizely on your Mac.  There have been some great blog posts written that share how to load the solution across multiple different platforms.  I thank those authors for giving me a great head start and I encourage you to explore those as well.
