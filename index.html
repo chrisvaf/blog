@@ -20,7 +20,11 @@ layout: default
        </small>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {% if post.summary %}
+            {{ post.summary }}
+        {% else %}
+            {{ post.excerpt}}
+        {% endif %} 
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
