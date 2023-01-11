@@ -78,6 +78,7 @@ sass:
 
 plugins:
   - jekyll-feed
+  - tag-generator
 
 # Use the following plug-ins
 gems:
